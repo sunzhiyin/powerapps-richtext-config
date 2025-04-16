@@ -1,0 +1,5 @@
+{
+  "toolbar": "undo redo | bold italic underline | alignleft aligncenter alignright | bullist numlist outdent indent | link",
+  "menubar": false,
+  "plugins": "lists link"
+}
