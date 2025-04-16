@@ -1,0 +1,1 @@
+# powerapps-richtext-config
